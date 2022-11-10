@@ -1,0 +1,1 @@
+<?php /**PATH C:\project\kecak\resources\views/welcome.blade.php ENDPATH**/ ?>
